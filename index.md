@@ -4,8 +4,8 @@ PhD Student @ the Auckland University of Technology
 ## Contact
 - Academic Email: lin.ma@aut.ac.nz
 - Business Email: Lin@LinAccountant.Pro
-- LinkedIn: https://www.linkedin.com/in/linacct/
-- GitHub: https://github.com/chillylin
+- [LinkedIn](https://www.linkedin.com/in/linacct/)
+- [GitHub](https://github.com/chillylin)
 - Twitter: [@LinAccountant](https://twitter.com/LinAccountant)
 
 ## Research Area:  
