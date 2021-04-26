@@ -4,7 +4,6 @@ PhD Student @ the Auckland University of Technology
 Former manager in auditing and assurance. 
 
 ## Contact
-- Academic Email: lin.ma@aut.ac.nz
 - Business Email: Lin@LinAccountant.Pro
 - [LinkedIn](https://www.linkedin.com/in/linacct/)
 - [GitHub](https://github.com/chillylin)
