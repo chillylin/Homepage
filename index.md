@@ -13,6 +13,8 @@ Former manager in auditing and assurance.
 - Python
 - LaTeX
 - C
+- PHP
+- SQL
 
 ## Research Area:  
 - Professionalisation
