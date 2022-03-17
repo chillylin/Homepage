@@ -1,5 +1,5 @@
 # Lin Ma, ACCA, CPA Canada
-PhD Student @ the Auckland University of Technology
+PhD Candidate @ the Auckland University of Technology
 
 Former manager in auditing and assurance. 
 
