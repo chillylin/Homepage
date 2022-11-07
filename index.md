@@ -1,7 +1,7 @@
-# Lin Ma, ACCA, CPA Canada
+# Lin Ma. FCCA.
 PhD Candidate @ the Auckland University of Technology
 
-Accountant
+Chartered Certified Accountant
 
 Former MIC in auditing and assurance. 
 
