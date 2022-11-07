@@ -1,6 +1,8 @@
 # Lin Ma, ACCA, CPA Canada
 PhD Candidate @ the Auckland University of Technology
+
 Accountant
+
 Former MIC in auditing and assurance. 
 
 ## Contact
