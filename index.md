@@ -20,8 +20,8 @@ Former MIC in auditing and assurance.
 
 ## Research Area:  
 - Professionalisation
+- Stuctural analysis / Network analysis
 - Social media and corporate disclosure 
-- Natural language processing based quantitative research
 
 ## Membership:
 - Fellow Chartered Certified Accountant
