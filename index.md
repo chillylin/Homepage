@@ -10,6 +10,7 @@ Former MIC in auditing and assurance.
 - [LinkedIn](https://www.linkedin.com/in/linacct/)
 - [GitHub](https://github.com/chillylin)
 - Twitter: [@LinAccountant](https://twitter.com/LinAccountant)
+- <a rel="me" href="https://mstdn.ca/@chillylin">Mastodon</a>
 
 ## Language
 - Python
@@ -41,3 +42,4 @@ Ma, L., & Rahman, A. (2022). Culture and the decision to adopt and use social me
 ## Conference
 - Culture and Social Media-based Corporate Disclosures by Companies: An empirical multinational study @ Auckland Region Accounting Conference 2020
 - What Helped Officials of Song Dynasty in Climbing the Greasy Pole: An Empirical Study @ International Conference of Digital Archives and Digital Humanities 2019
+
