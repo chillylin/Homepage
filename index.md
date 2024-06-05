@@ -6,21 +6,6 @@ Former MIC in auditing and assurance.
 ## Contact
 - Business Email: Lin@LinAccountant.Pro
 - [LinkedIn](https://www.linkedin.com/in/linacct/)
-- [GitHub](https://github.com/chillylin)
-- Twitter: [@LinAccountant](https://twitter.com/LinAccountant)
-- <a rel="me" href="https://mstdn.ca/@chillylin">Mastodon</a>
-
-## Language
-- Python
-- LaTeX
-- C
-- PHP
-- SQL
-
-## Research Area:  
-- Professionalisation
-- Stuctural analysis / Network analysis
-- Social media and corporate disclosure 
 
 ## Membership:
 - Fellow Chartered Certified Accountant
@@ -33,6 +18,17 @@ Former MIC in auditing and assurance.
 - Master of Professional Accounting
 - Bachelor of Science
 - Advanced Diploma in Accounting and Business
+
+## Research Area:  
+- Professionalisation
+- Stuctural analysis / Network analysis
+- Social media and corporate disclosure 
+
+## Language
+- Python / C 
+- PHP
+- SQL
+- LaTeX
 
 ## Publication 
 Ma, L., & Rahman, A. (2022). Culture and the decision to adopt and use social media for corporate disclosures. _Pacific Accounting Review_. DOI: 10.1108/PAR-06-2021-0104
